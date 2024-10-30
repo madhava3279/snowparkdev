@@ -1,4 +1,0 @@
-snowflake-cli-labs
-snowflake
-snowflake-snowpark-python
-snowflake-connector-python
