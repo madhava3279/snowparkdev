@@ -3,7 +3,7 @@ from __future__ import annotations
 import sys
 
 from common import print_hello
-from first_snowpark_project.app.common import print_hello
+#from first_snowpark_project.app.common import print_hello
 from snowflake.snowpark import Session
 
 
