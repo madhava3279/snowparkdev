@@ -1,0 +1,15 @@
+default_connection_name = "madhava7889" 
+
+[cli.logs]
+save_logs = true
+path = "/home/codespace/.config/snowflake/logs"
+level = "info"
+
+[connections.madhava7889]
+account = "vi57279.central-india.azure"
+user = "madhava_dev"
+password = "Amma@56789"
+warehouse="COMPUTE_WH"
+role="ACCOUNTADMIN"
+database = "DB_DEMO"
+schema = "PUBLIC"
